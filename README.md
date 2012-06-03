@@ -4,6 +4,8 @@ hermes_c
 A HTTP-like messaging library that allows to build no-frills servers.
 See tests/copy_server.c and tests/copy_client.c for details.
 
+READ THIS FILE IN RAW MODE. THE HTML FORMATTING MESSES UP THE LAYOUT.
+
 Basic Message Format
 ---------------------
 
